@@ -23,7 +23,7 @@ The Smart File Compression System is a C++ application designed to compress file
    cd smart-file-compression
    ```
 
-2. **Compile the code
+2. **Compile the code**:
    ```bash
    g++ -std=c++11 main.cpp -o main
    ```
